@@ -220,7 +220,7 @@ Automatisierbar , Vermeidung von Wartezeiten und Wiederholbarkeit.
 #### Reflection Question
 
 * **What is the difference between redirecting to stdin and explicitly opening a file with `fopen`?**
-
+Bei fopen wird direkt auf die Datei zugegriffen. Bei stdin wird diese lediglich als Eingabequelle genutzt. 
 ---
 
 ### Task 5: Caesar Cipher & Prototype Asymmetric XOR Cipher
