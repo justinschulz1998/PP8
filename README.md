@@ -134,8 +134,9 @@ In this exercise you will:
 #### Reflection Questions
 
 1. **How do you pass a file name to a program using the `-i` and `-o` options?**
-2. **What are typical use cases for parameters versus flags? How do the differ from one another?**
-
+   Der Dateiname wird als argument nach der Flag übergeben.
+3. **What are typical use cases for parameters versus flags? How do the differ from one another?**
+Flags werden zur Steuerung genutzt Parameter sind meist veränderliche Variablen zur Funktiomn des Programms.
 ---
 
 ### Task 3: Interactive Input with `scanf` & `fscanf`
