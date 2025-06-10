@@ -189,6 +189,7 @@ Flags werden zur Steuerung genutzt Parameter sind meist veränderliche Variablen
 
 * **Why is a run-to-completion (batch) approach often preferable to interactive input?**
 
+Automatisierbar , Vermeidung von Wartezeiten und Wiederholbarkeit. 
 ---
 
 ### Task 4: Input Redirection from STDIN
